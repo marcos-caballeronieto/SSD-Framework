@@ -57,3 +57,4 @@ When invoking secondary agents (via `/peer-review`, `/red-team`, or `/delegate-q
 - If a plan contradicts the `mission.md`, prioritize the mission and flag the contradiction.
 - If the `app/` folder becomes disorganized, you are authorized to run `/refactor-check`.
 - If context memory is reaching its limit, execute `/context-snapshot` immediately.
+- **Frontend Verification**: When applicable (e.g., changes to the frontend are made), you must start the development server with the proper command to manually check and see the changes.
